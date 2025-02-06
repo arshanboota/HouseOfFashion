@@ -1,0 +1,72 @@
+{
+    "hello": "Hello React Native!",
+
+    "____":"Splash Screen",
+    "keep_eyes_on_your_new_arrivals": "Keep an Eye on Our \n New Arrivals",
+
+
+    "_____": "Welcome Screen",
+    "off_everything": "50% Off on \n EveryThing \n \n ",
+    "Offer_valid" : "Offer will be valid when you spend $75 \n or more ",
+    "log_in_button": "Log In",
+    "Sign_up_button": "Sign Up",
+
+
+    "______": "Login Screen",
+    "welcome": "Welcome!",
+    "Please_sign_in_to_your_account": "Please Sign In To Your Account",
+    "Forget_Password": "Forgot Password?",
+    "log_in_button_loginScreen": "Log In",
+    "Sign_up": "Sign Up",
+    "Dont_have_an_account": "Don't have an account?",
+    "Text_input_email_Login": "Email",
+    "Text_input_password_Login": "Password",
+
+
+    "_______": "SignUp Screen",
+    "Create_New_Account": "Create New Account",
+    "Please_fill_in_the_form_to_continue": "Please Fill In The Form To Continue",
+    "Sign_up_button_SignupScreen": "Sign Up",
+    "Login": "Log In",
+    "Have_an_account": "Have an Account?",
+    "Text_input_fullName_Signup": "Full Name",
+    "Text_input_email_Signup": "Email",
+    "Text_input_password_Signup": "Password",
+
+
+    "________": "Home Screen",
+    "Fashion_Store": "Fashion Store",
+    "Text_input_searchBox_HomeScreen": "Search here...",
+    "Men_heading": "Men",
+    "View_all":"View All",
+    "Women_heading": "Women",
+
+
+    "__________": "Product Screen",
+    "Swipe_Up_For_Variations": "Swipe Up For Variations",
+    "Swipe_down":"Swipe Down",
+    "Product_Details": "Product Details",
+    "Select_Color": "Select Color:",
+    "Select_Size": "Select Size:",
+    "Description_for_details": "Description:",
+    "Price_for_product": "Price",
+    "Add_to_Cart": "Add to Cart",
+
+
+
+    "___________": "Cart Screen",
+    "My_Cart": "My Cart",
+    "Sub_Total": "Sub Total:",
+    "Shipping": "Shipping:",
+    "Total": "Total:",
+    "Checkout": "Checkout",
+    
+    "____.....": "orderlist Screen",
+    "Orderlist": "Orders list",
+
+
+
+    "____....": "All Products Screen",
+    "All_Products": "All Products"
+    
+}

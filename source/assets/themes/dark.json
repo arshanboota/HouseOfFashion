@@ -1,0 +1,119 @@
+{
+    "mode": "dark",
+    "background": "#202129",
+
+    "________________": "App.js",
+    "app_bottomTab_backgroundColor": "#222831",
+    "app_bottomTab_topBorderColor": "#393E46",
+
+
+    "_____": "Splash Screen",
+    "splashScreen_primary_backgroundColor": "#222831",
+    "splashScreen_primary_textColor": "#393E46",
+    "splashScreen_primary_light_textColor": "#F8F0DF",
+    "splashScreen_tintColor": "#EEEEEE",
+
+
+    "______": "Welcome Screen",
+    "welcomeScreen_primary_backgroundColor": "#222831",
+    "welcomeScreen_secondary_backgroundColor": "#F8F0DF",
+    "welcomeScreen_primary_textColor": "#EEEEEE",
+    "welcomeScreen_primary_light_textColor": "#393E46",
+    "welcomeScreen_loginButton_color": "#79B4B7",
+    "welcomeScreen_signUpButton_color": "#9D9D9D",
+    "welcomeScreen_buttonText_color": "#EEEEEE",
+    "welcomeScreen_signUpbuttonText_color": "#EEEEEE",
+
+
+
+    "_______": "Login Screen",
+    "loginScreen_primary_backgroundColor": "#222831",
+    "loginScreen_primary_textColor": "#F8F0DF",
+    "loginScreen_primary_light_textColor": "#FEFBF3",
+    "loginScreen_TextInputColor": "#4f4c4c",
+    "loginScreen_buttonColor": "#79B4B7",
+    "login_Icon_Color":"#EEE",
+
+
+    "___________": "SignUp Screen",
+    "SignupScreen_primary_backgroundColor": "#222831",
+    "SignupScreen_primary_textColor": "#F8F0DF",
+    "SignupScreen_primary_light_textColor": "#FEFBF3",
+    "SignupScreen_TextInputColor": "#4f4c4c",
+    "SignupScreen_buttonColor": "#79B4B7",
+
+
+    "________": "Home Screen",
+    "homeScreen_primary_backgroundColor": "#222831",
+    "homeScreen_primary_viewColor": "#fff",
+    "homeScreen_primary_textColor": "#79B4B7",
+    "homeScreen_secondary_textColor": "#393E46",
+    "homeScreen_slider_indicatorDotColor": "#693B23",
+    "homeScreen_slider_dotColor": "#79B4B7",
+    "homeScreen_slider_indicatorColor": "#79B4B7",
+    "product_secondary_color":"#fff",
+    "product_ternary_color":"#79B4B7",
+    "sidebar_color":"#fbb215",
+    "sale_price_color":"#fbb215",
+    "product_price_color":"#F8F0DF",
+    "product_title_color":"#F8F0DF",
+    "home_icon_color":"#ffffff",
+
+
+
+    "_________": "Product Screen",
+    "commented_color_code": "#533726",
+    "productScreen_primary_backgroundColor": "#393E46",
+    "productScreen_productDetailsView_backgroundColor": "#9D9D9D",
+    "productScreen_primary_viewColor":"#F8F0DF",
+    "productScreen_primary_textColor": "#FEFBF3",
+    "productScreen_secondry_textColor": "#393E46",
+    "description_Text_Color":"#ffffff",
+    "productScreen_secondary_textColor": "#79B4B7",
+    "productScreen_primary_buttonColor": "#79B4B7",
+    "productScreen_icon_arrowColor": "#222831",
+    "productScreen_icon_heartColor": "#FF0000",
+    "productScreen_icon_backgroundColor": "#FEFBF3",
+    "productScreen_icon_upArrowColor": "#79B4B7",
+    "productScreen_icon_doneButton": "#79B4B7",
+    "productScreen_icon_plusButtonBorder": "#222831",
+    "productScreen_icon_minusButtonBorder": "#EEEEEE",
+    "variation_not_available_color":"#533726",
+    "Icon_Color":"#FF0000",
+    "delete_icon_color":"#79B4B7",
+
+    
+    "__________": "Cart Screen",
+    "CartScreen_primary_backgroundColor": "#393E46",
+    "CartScreen_primary_viewColor": "#ffffff",
+    "CartScreen_primary_textColor": "#FEFBF3",
+    "CartScreen_secondary_textColor": "#EEEEEE",
+    "CartScreen_primary_buttonColor": "#79B4B7",
+    "CartScreen_primary_buttonTextColor": "#FEFBF3",
+    "CartScreen_icon_arrowColor": "#FEFBF3",
+    "CartScreen_icon_deleteColor": "#161616",
+
+    "____________":"Order List",
+    
+    "main_background":"#393E46",
+    "order_slip_background":"#FEFBF3",
+    "order_slip_text":"#222831",
+    "Orderlist_primary_textColor": "#000",
+    "icon_colors":"#000000",
+    "Icon_Primary_Color": "#79B4B7",
+    "background_Color":"#FEFBF3",
+    
+   
+
+    "__________________":" Checkout web",
+    "Checkout_backgroundColor": "#393E46",
+    "Header_Icon_color":"#ffffff",
+
+
+    "_______________":" All Products",
+    "Back_Icon_Color": "#000000",
+    "AllProducts_primary_textColor": "#79B4B7",
+    "AllProduct_primary_backgroundColor": "#393E46",
+    "AllProduct_icon_color":"#ffffff"
+
+}
